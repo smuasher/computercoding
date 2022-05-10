@@ -13,7 +13,9 @@
 ### Deliverable 3:
 1. Up until now, I’ve been learning the basic syntax of python through more resources (other than just the Harvard lecture) like Google’s Python Class, Codecademy’s python course, and YouTube videos occasionally. 
 2. My goal was to learn and understand how to use the syntax of basic Python. I did meet this goal.I don’t think I need any extra help or time to get my project done, I’m on track to finishing on time.
-3. Video: [a relative link]
+3. https://user-images.githubusercontent.com/89782057/167563421-a3b672a2-aca3-4d66-ae75-aaa487656418.mov
+
+
 
 ### Deliverable 4:
 1. I’ve decided on my project and have a rough draft of it. I decided to make a rock-paper-scissors game; I coded a rough draft of it, meaning that it works, but only runs once and doesn’t have a nice introduction or send-off for the user. 
