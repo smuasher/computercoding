@@ -11,7 +11,7 @@
 3. So far, I haven't actually coded anything yet, so there's nothing to really show.
 
 ### Deliverable 3:
-1. Up until now, I’ve been learning the basic syntax of python through multiple resources like Google’s Python Class, Codecademy’s python course, and YouTube videos occasionally. 
+1. Up until now, I’ve been learning the basic syntax of python through more resources (other than just the Harvard lecture) like Google’s Python Class, Codecademy’s python course, and YouTube videos occasionally. 
 2. My goal was to learn and understand how to use the syntax of basic Python. I did meet this goal.I don’t think I need any extra help or time to get my project done, I’m on track to finishing on time.
 3. Video
 
