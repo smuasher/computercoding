@@ -20,10 +20,13 @@
 ### Deliverable 4:
 1. I’ve decided on my project and have a rough draft of it. I decided to make a rock-paper-scissors game; I coded a rough draft of it, meaning that it works, but only runs once and doesn’t have a nice introduction or send-off for the user. 
 2. My goal was to get started working on my project, I met that goal and exceeded my expectations by essentially finishing my program. 
-3. Video
+3. https://user-images.githubusercontent.com/89782057/167563755-c736f365-57ed-4eaa-b07f-2bdfde04d6fa.mov
+
+
 
 ### Deliverable 5:
 1. For this deliverable, I didn’t learn anything new.
 2. My goal was to polish the project, make it so that the program would continuously run if the user wanted. I did meet this goal. 
-3. Video
+3. https://user-images.githubusercontent.com/89782057/167563774-8a65c256-5dad-46b2-9b19-e66f9d7e6546.mov
+
 
