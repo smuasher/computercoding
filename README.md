@@ -8,7 +8,7 @@
 
 ⋅⋅c. In order to stay on schedule, I think I should begin my project within the next month and try and ask as many questions as possible in order to keep   myself on track
 
-3. My computer doesn't allow me to screen record, but when it does, I will upload a link of what I've done so far.
+3. So far, I haven't actually coded anything yet, so there's nothing to really show.
 
 ### Deliverable 3:
 1. Up until now, I’ve been learning the basic syntax of python through multiple resources like Google’s Python Class, Codecademy’s python course, and YouTube videos occasionally. 
