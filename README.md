@@ -25,6 +25,7 @@
 
 
 ### Deliverable 5:
+#### May 10, 2022
 1. For this deliverable, I didn’t learn anything new.
 2. My goal was to polish the project, make it so that the program would continuously run if the user wanted. I did meet this goal. 
 3. https://user-images.githubusercontent.com/89782057/167563774-8a65c256-5dad-46b2-9b19-e66f9d7e6546.mov
